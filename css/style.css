@@ -1,0 +1,50 @@
+/*Basic Css Start*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+img {
+    border: 0;
+    cursor: pointer;
+}
+
+p {
+    line-height: 150%;
+}
+
+clear {
+    overflow: hidden;
+}
+
+
+/*Basic Css End*/
+
+
+/*header Css start*/
+
+
+
+/*header Css End*/
+
+
+/*slider Css start*/
+
